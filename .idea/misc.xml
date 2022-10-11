@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/HastaKayit/app/src/main/res/layout/activity_hakkinda.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/HastaKayit/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/HastaKayit/app/src/main/res/layout/giris_sayfa.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/HastaKayit/app/src/main/res/layout/hakkinda.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/HastaKayit/app/src/main/res/layout/hakkinda_sayfa.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/HastaKayit/app/src/main/res/layout/hasta_kayit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/HastaKayit/app/src/main/res/layout/kayitli_hasta.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
